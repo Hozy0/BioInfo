@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "106ba6c748f0f021",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e66873137c95ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be457078159dac9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74c327189b37849f",
+    "type": "split",
+    "children": [
+      {
+        "id": "409cef645ada82c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efbcdecb9d4dbc69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0dd1b27ef4ab70d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a80eb2948a4594c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2972627aba4156b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c929b3ddccfd5e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2606ef090877ea73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37b9791aecbb69da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07b8f09793bb7165",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6f8cece1a8c5d6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg"
+              }
+            }
+          },
+          {
+            "id": "d6daf0fe9f3e2bb5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7be457078159dac9",
+  "lastOpenFiles": [
+    "Global Alignment.md",
+    "Algorithms/Smith-Waterman.md",
+    "Algorithms/Needleman-Wunsch.md",
+    "Local Aligment.md",
+    "Glossary.md",
+    "Sequence Alignment.md",
+    "Definitions/LCS Problem.md",
+    "Definitions/Scoring Matrix.md",
+    "Algorithms/LCS.md",
+    "Implementations/Smith-Waterman Implementation.md",
+    "Implementations/Needleman-Wunsch Implementation.md",
+    "Implementations/LCS implementation.md",
+    "Definitions/Global Alignment Problem.md",
+    "Definitions/Local Alignment Problem.md",
+    "Algorithms/Alignment.md",
+    "Attachments/Pasted image 20231021015841.png",
+    "Algorithms",
+    "Definitions",
+    "Attachments/Pasted image 20231019165041.png",
+    "Attachments",
+    "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
+    "Implementations/alignment.py",
+    "Implementations"
+  ]
+}

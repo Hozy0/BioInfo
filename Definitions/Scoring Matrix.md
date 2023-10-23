@@ -1,0 +1,1 @@
+A scoring matrix, often used in the context of sequence alignment algorithms, is a table that assigns scores to different pairs of elements, typically characters from an alphabet. It is used to quantify the similarity or dissimilarity between elements in two sequences, such as DNA sequences, protein sequences, or text strings

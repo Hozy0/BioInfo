@@ -1,0 +1,30 @@
+- **Genome**: The full complement of genetic information, both coding and noncoding, in an organism ^207015
+- **Proteome:** The complete set of proteins expressed by the genome in an organism
+- **Transcriptome:** The population of mRNA transcripts in the cell, weighted by their expression levels as transcripts copy number
+- **Metabolome:** The quantitative complement of all the small molecules present in a cell in a specific physiological state
+- **Interactome**: Product of interactions between all macromolecules in a cell
+- **Hypothome**: Interactome of hypothetical proteins
+- **Phenome:** Qualitative identification of the form and function derived from genes but lacking a quantitative, integrative definition
+- **Glycome:** The population of carbohydrate molecules in the cell
+- **Translatome:** The population of mRNA transcripts in the cell, weighted by their expression levels as protein products|
+- **Regulome:** Genome-wide regulatory network of the cell
+- **Operome:** The characterisation of proteins with unknown biological function|
+- **Synthetome:** The population of the synthetic gene products
+- **Bioinformatics:** Developing algorithms and methods for analysing DNA, RNA and protein sequence, structure and function. This includes tasks like sequence alignment, database searching, phylogenetic tree construction, structure prediction, and genomic annotation. ^e0e3b5
+- **Computational Biology:** Involves developing and applying mathematical modelling, computational simulation techniques, and data analytics to address biological questions. It allows researchers to integrate diverse datasets, test hypotheses, and predict behaviours of biological systems.
+- **Systems Biology:** Using computational models to study interactions within biological systems and predict systemic behaviours. This provides insights into properties that emerge at the systems level.
+- **Synthetic Biology:** Redesigning and engineering novel biological systems, such as genetic circuits or metabolic pathways. Computational tools aid in designing circuits.
+- **Biomedical engineering:** Creating computational models and analytic tools to aid innovations in biomaterials, medical devices, tissue engineering, imaging and diagnostics.
+- **Sequence analysis:** Algorithms for searching databases, performing multiple sequence alignments and identifying homologous relationships. Provides evolutionary and functional insights.
+- **Structure prediction:** Methods for predicting 3D protein structure from sequence using comparative/homology modelling or ab initio simulation.
+- **Function prediction:** Using sequence motifs, structural comparison, machine learning, etc. To annotate protein function. Improves the characterisation of unstudied proteins.
+- **Evolutionary analysis:** Phylogenetic approaches for studying protein family evolution. Reveals evolutionary relationships and divergence.
+- **Mutation analysis:** Evaluating the effect of mutations on protein structure and function using energy-based or machine-learning models. Interprets genetic variations.
+- **Gaps:** Regions identified by “-” that represent indels. ^666e6c
+- **Indels:** Insertions and deletions of character. ^af87ab
+- **Matches:** Corresponding regions between two different sequences. ^a5db05
+- **Mismatches:** Regions with non-identical characters in different sequences. ^09f3c0
+- **Gap penalty (GP)**: Parameter needed to assign a score to a gap.
+- **Identity:** Percentage of similar characters between two sequences.
+- **Similarity:** Degree of resemblance between sequences based on identity.
+- **Homology:** Evolutionary hypothesis between two sequences that can be derived from a common ancestor
