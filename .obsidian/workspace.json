@@ -11,9 +11,11 @@
             "id": "7be457078159dac9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg"
+                "file": "Sequence Alignment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
+                "file": "Sequence Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
+                "file": "Sequence Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg"
+                "file": "Sequence Alignment.md"
               }
             }
           },
@@ -154,10 +156,11 @@
   },
   "active": "7be457078159dac9",
   "lastOpenFiles": [
+    "Local Aligment.md",
     "Global Alignment.md",
+    "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Algorithms/Smith-Waterman.md",
     "Algorithms/Needleman-Wunsch.md",
-    "Local Aligment.md",
     "Glossary.md",
     "Sequence Alignment.md",
     "Definitions/LCS Problem.md",
@@ -174,7 +177,6 @@
     "Definitions",
     "Attachments/Pasted image 20231019165041.png",
     "Attachments",
-    "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Implementations/alignment.py",
     "Implementations"
   ]
