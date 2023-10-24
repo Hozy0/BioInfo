@@ -95,8 +95,10 @@ There are two types of alignment: [[Global Alignment|Global]] and [[Local Aligme
 > [!Info] Global Alignment Problem
 >![[Global Alignment Problem]]
 
+Biologists often employ global sequence alignment to assess the overall similarity between two genes or sequences. This type of alignment is particularly useful for identifying shared structural and functional characteristics. For instance, when two genes exhibit a significant global alignment score, it suggests a broader sequence similarity, potentially indicating a common ancestry or shared biological functions. This insight can be valuable for exploring evolutionary relationships, identifying conserved protein domains, or inferring related biological processes.
+
 >[!info] Local Alignment Problem
 >![[Local Alignment Problem]]
 
-
+At first glance, it might seem Global alignment is better than Local alignment, but they are used for two different purposes
 

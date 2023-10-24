@@ -112,6 +112,10 @@ iNM
 ir
 iVS
 iRBX
+instance
+indicating
+insight
+inferring
 sequence
 sequences
 similarity
@@ -189,6 +193,10 @@ spS
 sR
 stl
 sf
+scenario
+shared
+significant
+suggests
 alignment
 arranging
 an
@@ -252,6 +260,8 @@ aP
 aGr
 ag
 ai
+assess
+ancestry
 Alignment
 Algorithms
 Assuming
@@ -333,6 +343,7 @@ wN
 wp
 wO
 wdI
+worst
 of
 or
 one
@@ -380,6 +391,7 @@ ou
 om
 ogI
 oP
+overall
 two
 to
 the
@@ -442,6 +454,7 @@ tKqp
 tn
 tb
 tP
+type
 DNA
 Dynamic
 Developing
@@ -525,6 +538,9 @@ pj
 pLN
 pC
 pA
+particularly
+potentially
+processes
 regions
 row
 required
@@ -575,6 +591,7 @@ rE
 rO
 rC
 rL
+related
 Given
 General
 Graph
@@ -709,6 +726,7 @@ ukqs
 uO
 uG
 uyt
+useful
 each
 example
 elements
@@ -759,6 +777,8 @@ em
 eQm
 ef
 eF
+employ
+exploring
 gap
 genomes
 grid
@@ -919,6 +939,9 @@ cY
 cil
 cN
 cD
+case
+characteristics
+conserved
 by
 biologists
 between
@@ -960,6 +983,7 @@ ba
 bT
 bJ
 better
+broader
 matrix
 mutation
 minimum
@@ -1230,6 +1254,7 @@ fKKyc
 fm
 fgp
 fy
+functions
 deletions
 due
 death
@@ -1282,6 +1307,7 @@ dj
 ds
 da
 do
+domains
 Consider
 Calculating
 Common
@@ -1745,6 +1771,7 @@ Bi
 BY
 BA
 BV
+Biologists
 Using
 Uo
 UA
@@ -1814,6 +1841,7 @@ vl
 vM
 vw
 vC
+valuable
 Needleman
 Note
 Nt
