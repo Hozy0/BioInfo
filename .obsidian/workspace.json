@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Global Alignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Global Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Global Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Global Alignment.md"
               }
             }
           },
@@ -156,13 +156,13 @@
   },
   "active": "7be457078159dac9",
   "lastOpenFiles": [
-    "Local Aligment.md",
+    "Sequence Alignment.md",
     "Global Alignment.md",
+    "Local Aligment.md",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Algorithms/Smith-Waterman.md",
     "Algorithms/Needleman-Wunsch.md",
     "Glossary.md",
-    "Sequence Alignment.md",
     "Definitions/LCS Problem.md",
     "Definitions/Scoring Matrix.md",
     "Algorithms/LCS.md",

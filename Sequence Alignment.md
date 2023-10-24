@@ -88,7 +88,7 @@ where $\sigma$ is the *indel penalty* and $\mu$ is the *mismatch penalty*.
 Which results in this grid:
 ![[Pasted image 20231021015841.png]]
 
-## Local vs Global Alignment
+## Local vs Global Alignment: Which alignment is better?
 
 There are two types of alignment: [[Global Alignment|Global]] and [[Local Aligment|Local]].
 
@@ -97,5 +97,6 @@ There are two types of alignment: [[Global Alignment|Global]] and [[Local Aligme
 
 >[!info] Local Alignment Problem
 >![[Local Alignment Problem]]
+
 
 
