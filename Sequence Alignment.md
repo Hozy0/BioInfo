@@ -100,5 +100,7 @@ Biologists often employ global sequence alignment to assess the overall similari
 >[!info] Local Alignment Problem
 >![[Local Alignment Problem]]
 
-At first glance, it might seem Global alignment is better than Local alignment, but they are used for two different purposes
+At first glance, it might seem Global alignment is better than Local alignment, but they are used for two different purposes.
+
+Hello Amir
 
