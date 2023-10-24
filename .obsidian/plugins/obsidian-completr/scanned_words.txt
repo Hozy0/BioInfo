@@ -204,6 +204,9 @@ species
 same
 sample
 should
+severe
+series
+single
 alignment
 arranging
 an
@@ -273,6 +276,7 @@ amino
 acid
 acids
 assembling
+assigned
 Alignment
 Algorithms
 Assuming
@@ -409,6 +413,7 @@ overall
 occurring
 occurred
 over
+objectives
 two
 to
 the
@@ -475,6 +480,7 @@ type
 they
 true
 through
+too
 DNA
 Dynamic
 Developing
@@ -570,6 +576,7 @@ probability
 pairwise
 probabilities
 period
+previously
 regions
 row
 required
@@ -622,6 +629,7 @@ rC
 rL
 related
 reflect
+rather
 Given
 General
 Graph
@@ -710,6 +718,7 @@ lp
 ll
 lc
 large
+larger
 up
 uparrow
 using
@@ -812,6 +821,8 @@ eF
 employ
 exploring
 extrapolated
+event
+events
 gap
 genomes
 grid
@@ -985,6 +996,9 @@ calculated
 comparisons
 changes
 come
+choice
+controlled
+consecutive
 by
 biologists
 between
@@ -1091,6 +1105,7 @@ might
 may
 mutates
 matrices
+many
 nd
 number
 non
@@ -1306,6 +1321,7 @@ fgp
 fy
 functions
 first
+fixed
 deletions
 due
 death
@@ -1359,6 +1375,7 @@ ds
 da
 do
 domains
+depends
 Consider
 Calculating
 Common
@@ -1531,6 +1548,7 @@ SvW
 SF
 Si
 Scoring
+Similar
 Problem
 Programming
 Proteome
@@ -1721,6 +1739,7 @@ Oö
 Of
 Ocn
 Other
+Often
 Metabolome
 Methods
 Mutation
@@ -1829,6 +1848,7 @@ BY
 BA
 BV
 Biologists
+But
 Using
 Uo
 UA
@@ -2123,6 +2143,7 @@ kZO
 ki
 kFY
 kK
+know
 jy
 jz
 jU

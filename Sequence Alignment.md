@@ -109,3 +109,5 @@ On the other hand, biologists often employ **Local alignment** to identify *shar
 We previously assigned a fixed penalty $\sigma$ to each indel. But the problem with this is that if we have many consecutive gaps, this penalty may be too severe. Often, a series of $k$-indels may represent *a single evolutionary event rather than $k$ events*.
 
 
+
+

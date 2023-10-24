@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Scoring Matrix.md",
+                "file": "Sequence Alignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Scoring Matrix.md",
+                "file": "Sequence Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Scoring Matrix.md",
+                "file": "Sequence Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/Scoring Matrix.md"
+                "file": "Sequence Alignment.md"
               }
             }
           },
@@ -156,10 +156,11 @@
   },
   "active": "7be457078159dac9",
   "lastOpenFiles": [
-    "Definitions/log odds.md",
-    "Definitions/Scoring Matrix.md",
-    "Glossary.md",
+    "Definitions/Log Odds Matrix.md",
     "Sequence Alignment.md",
+    "Definitions/Scoring Matrix.md",
+    "Attachments/Pasted image 20231024164432.png",
+    "Glossary.md",
     "Global Alignment.md",
     "Local Aligment.md",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
