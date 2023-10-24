@@ -95,12 +95,17 @@ There are two types of alignment: [[Global Alignment|Global]] and [[Local Aligme
 > [!Info] Global Alignment Problem
 >![[Global Alignment Problem]]
 
-Biologists often employ global sequence alignment to assess the overall similarity between two genes or sequences. This type of alignment is particularly useful for identifying shared structural and functional characteristics. For instance, when two genes exhibit a significant global alignment score, it suggests a broader sequence similarity, potentially indicating a common ancestry or shared biological functions. This insight can be valuable for exploring evolutionary relationships, identifying conserved protein domains, or inferring related biological processes.
 
 >[!info] Local Alignment Problem
 >![[Local Alignment Problem]]
 
-At first glance, it might seem Global alignment is better than Local alignment, but they are used for two different purposes.
+So, how do we know which alignment is better? The choice between global and local alignment <u>depends on the analysis's specific biological questions and objectives</u>.
 
-Hello Amir
+**Global alignment** is used when biologists want to assess the *overall similarity between two genes or sequences*. For instance, when two genes exhibit a significant global alignment score, it suggests a broader sequence similarity, potentially indicating a common ancestry or shared biological functions.
+On the other hand, biologists often employ **Local alignment** to identify *shared regions between two genes*, and it is useful for identifying specific functional domains, motifs, or conserved regions within a larger sequence. Similar local regions may indicate that both genes are controlled by the same regulatory elements or are bound by common regulatory proteins.
+
+## Scoring Gaps
+
+We previously assigned a fixed penalty $\sigma$ to each indel. But the problem with this is that if we have many consecutive gaps, this penalty may be too severe. Often, a series of $k$-indels may represent *a single evolutionary event rather than $k$ events*.
+
 

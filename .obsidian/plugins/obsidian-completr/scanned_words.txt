@@ -116,6 +116,8 @@ instance
 indicating
 insight
 inferring
+indicate
+interval
 sequence
 sequences
 similarity
@@ -197,6 +199,11 @@ scenario
 shared
 significant
 suggests
+seem
+species
+same
+sample
+should
 alignment
 arranging
 an
@@ -262,6 +269,10 @@ ag
 ai
 assess
 ancestry
+amino
+acid
+acids
+assembling
 Alignment
 Algorithms
 Assuming
@@ -289,6 +300,9 @@ Al
 AV
 AY
 AK
+At
+Accepted
+All
 way
 with
 want
@@ -392,6 +406,9 @@ om
 ogI
 oP
 overall
+occurring
+occurred
+over
 two
 to
 the
@@ -455,6 +472,9 @@ tn
 tb
 tP
 type
+they
+true
+through
 DNA
 Dynamic
 Developing
@@ -541,6 +561,15 @@ pA
 particularly
 potentially
 processes
+purposes
+provide
+potential
+presence
+proportional
+probability
+pairwise
+probabilities
+period
 regions
 row
 required
@@ -592,6 +621,7 @@ rO
 rC
 rL
 related
+reflect
 Given
 General
 Graph
@@ -679,6 +709,7 @@ lg
 lp
 ll
 lc
+large
 up
 uparrow
 using
@@ -727,6 +758,7 @@ uO
 uG
 uyt
 useful
+under
 each
 example
 elements
@@ -779,6 +811,7 @@ ef
 eF
 employ
 exploring
+extrapolated
 gap
 genomes
 grid
@@ -832,6 +865,7 @@ gnB
 gMP
 gz
 gb
+glance
 The
 This
 To
@@ -870,6 +904,7 @@ TRy
 Tom
 Tv
 TRR
+They
 computed
 counting
 causes
@@ -942,6 +977,14 @@ cD
 case
 characteristics
 conserved
+closely
+control
+contains
+constructed
+calculated
+comparisons
+changes
+come
 by
 biologists
 between
@@ -984,6 +1027,7 @@ bT
 bJ
 better
 broader
+bound
 matrix
 mutation
 minimum
@@ -1043,6 +1087,10 @@ mN
 mn
 mky
 mr
+might
+may
+mutates
+matrices
 nd
 number
 non
@@ -1185,6 +1233,8 @@ hs
 hUV
 hf
 hc
+hand
+has
 you
 yi
 yV
@@ -1255,6 +1305,7 @@ fm
 fgp
 fy
 functions
+first
 deletions
 due
 death
@@ -1479,6 +1530,7 @@ SlI
 SvW
 SF
 Si
+Scoring
 Problem
 Programming
 Proteome
@@ -1517,6 +1569,8 @@ Pc
 PW
 Pp
 PH
+PAM
+Point
 quad
 quantitative
 questions
@@ -1666,6 +1720,7 @@ OS
 Oö
 Of
 Ocn
+Other
 Metabolome
 Methods
 Mutation
@@ -1718,6 +1773,8 @@ MkY
 MR
 MGF
 Mq
+Matrices
+Mutations
 Qualitative
 Qa
 Qk
@@ -1842,6 +1899,8 @@ vM
 vw
 vC
 valuable
+values
+verified
 Needleman
 Note
 Nt
