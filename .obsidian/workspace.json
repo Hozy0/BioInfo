@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Needleman-Wunsch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff2488d4cb090e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fixr.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Fixr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Fixr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Fixr.md"
               }
             }
           },
@@ -154,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7be457078159dac9",
+  "active": "ff2488d4cb090e19",
   "lastOpenFiles": [
-    "Definitions/Log Odds Matrix.md",
+    "Algorithms/Needleman-Wunsch.md",
+    "Fixr.md",
     "Sequence Alignment.md",
+    "Definitions/Log Odds Matrix.md",
     "Definitions/Scoring Matrix.md",
     "Attachments/Pasted image 20231024164432.png",
     "Glossary.md",
@@ -165,7 +180,6 @@
     "Local Aligment.md",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Algorithms/Smith-Waterman.md",
-    "Algorithms/Needleman-Wunsch.md",
     "Definitions/LCS Problem.md",
     "Algorithms/LCS.md",
     "Implementations/Smith-Waterman Implementation.md",
