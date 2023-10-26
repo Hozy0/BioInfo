@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "94e66873137c95ff",
+        "id": "6cd5eeaecd2403f7",
         "type": "tabs",
         "children": [
           {
-            "id": "7be457078159dac9",
+            "id": "2abb7fb039ee1789",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Needleman-Wunsch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2488d4cb090e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fixr.md",
+                "file": "Global Alignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixr.md",
+                "file": "Global Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixr.md",
+                "file": "Global Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixr.md"
+                "file": "Global Alignment.md"
               }
             }
           },
@@ -167,16 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff2488d4cb090e19",
+  "active": "2abb7fb039ee1789",
   "lastOpenFiles": [
-    "Algorithms/Needleman-Wunsch.md",
     "Fixr.md",
+    "Global Alignment.md",
+    "Algorithms/Needleman-Wunsch.md",
     "Sequence Alignment.md",
     "Definitions/Log Odds Matrix.md",
     "Definitions/Scoring Matrix.md",
     "Attachments/Pasted image 20231024164432.png",
     "Glossary.md",
-    "Global Alignment.md",
     "Local Aligment.md",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Algorithms/Smith-Waterman.md",
