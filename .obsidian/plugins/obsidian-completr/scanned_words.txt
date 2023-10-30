@@ -43,6 +43,7 @@ Wb
 Wß
 WG
 Wg
+Where
 is
 identify
 in
@@ -207,6 +208,7 @@ should
 severe
 series
 single
+second
 alignment
 arranging
 an
@@ -277,6 +279,8 @@ acid
 acids
 assembling
 assigned
+aligning
+any
 Alignment
 Algorithms
 Assuming
@@ -414,6 +418,8 @@ occurring
 occurred
 over
 objectives
+odds
+observed
 two
 to
 the
@@ -577,6 +583,7 @@ pairwise
 probabilities
 period
 previously
+pair
 regions
 row
 required
@@ -630,6 +637,10 @@ rL
 related
 reflect
 rather
+relatedness
+residues
+residue
+rarely
 Given
 General
 Graph
@@ -719,6 +730,8 @@ ll
 lc
 large
 larger
+log
+logarithmic
 up
 uparrow
 using
@@ -999,6 +1012,7 @@ come
 choice
 controlled
 consecutive
+chance
 by
 biologists
 between
@@ -1322,6 +1336,8 @@ fy
 functions
 first
 fixed
+formula
+frequency
 deletions
 due
 death
@@ -1488,6 +1504,7 @@ Es
 Ecy
 ESZ
 EGR
+Example
 Longest
 LCS
 Let

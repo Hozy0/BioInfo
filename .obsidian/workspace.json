@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Alignment.md",
+                "file": "Sequence Alignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Alignment.md",
+                "file": "Sequence Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Alignment.md",
+                "file": "Sequence Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Alignment.md"
+                "file": "Sequence Alignment.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "2abb7fb039ee1789",
   "lastOpenFiles": [
-    "Fixr.md",
-    "Global Alignment.md",
-    "Algorithms/Needleman-Wunsch.md",
-    "Sequence Alignment.md",
-    "Definitions/Log Odds Matrix.md",
     "Definitions/Scoring Matrix.md",
-    "Attachments/Pasted image 20231024164432.png",
+    "Definitions/Log Odds Matrix.md",
+    "Global Alignment.md",
     "Glossary.md",
     "Local Aligment.md",
+    "Sequence Alignment.md",
+    "Fixr.md",
+    "Algorithms/Needleman-Wunsch.md",
+    "Attachments/Pasted image 20231024164432.png",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Algorithms/Smith-Waterman.md",
     "Definitions/LCS Problem.md",
