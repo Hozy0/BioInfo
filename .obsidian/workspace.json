@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Scoring gaps.md",
+                "file": "Sequence Alignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Scoring gaps.md",
+                "file": "Sequence Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Scoring gaps.md",
+                "file": "Sequence Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Scoring gaps.md"
+                "file": "Sequence Alignment.md"
               }
             }
           },
@@ -156,17 +156,18 @@
   },
   "active": "280b90695f09c616",
   "lastOpenFiles": [
-    "Algorithms/Needleman-Wunsch.md",
-    "Algorithms/Scoring gaps.md",
+    "Pasted image 20231030183105.png",
+    "Local Aligment.md",
     "Sequence Alignment.md",
-    "Algorithms/LCS.md",
+    "Algorithms/Scoring gaps.md",
     "Algorithms/Smith-Waterman.md",
+    "Algorithms/LCS.md",
+    "Algorithms/Needleman-Wunsch.md",
     "Untitled",
     "Definitions/Scoring Matrix.md",
     "Definitions/Log Odds Matrix.md",
     "Global Alignment.md",
     "Glossary.md",
-    "Local Aligment.md",
     "Fixr.md",
     "Attachments/Pasted image 20231024164432.png",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",

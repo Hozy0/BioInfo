@@ -23,9 +23,9 @@
 			\textbf{C: }F(i, j-1)-\text{d}\end{array}\right.$
 		\State 
 			$Ptr(i,j) \gets \left\{\begin{array}{l}
-			``\uparrow"\textbf{ if }\text{A}\\
-			``\leftarrow"\textbf{ if }\text{B}\\
-			``\nwarrow"\textbf{ if }\text{C}\end{array}\right.$
+			``\nwarrow"\textbf{ if }\text{A}\\
+			``\uparrow"\textbf{ if }\text{B}\\
+			``\leftarrow"\textbf{ if }\text{C}\end{array}\right.$
 	    \EndFor 
     \EndFor 
     \Return $F(m,n)$, $Ptr(m,n)$
