@@ -119,6 +119,7 @@ insight
 inferring
 indicate
 interval
+issue
 sequence
 sequences
 similarity
@@ -209,6 +210,7 @@ severe
 series
 single
 second
+solve
 alignment
 arranging
 an
@@ -281,6 +283,7 @@ assembling
 assigned
 aligning
 any
+about
 Alignment
 Algorithms
 Assuming
@@ -366,6 +369,7 @@ wp
 wO
 wdI
 worst
+ways
 of
 or
 one
@@ -420,6 +424,7 @@ over
 objectives
 odds
 observed
+opening
 two
 to
 the
@@ -487,6 +492,7 @@ they
 true
 through
 too
+textcolor
 DNA
 Dynamic
 Developing
@@ -584,6 +590,7 @@ probabilities
 period
 previously
 pair
+penalties
 regions
 row
 required
@@ -732,6 +739,8 @@ large
 larger
 log
 logarithmic
+left
+leftarrow
 up
 uparrow
 using
@@ -836,6 +845,7 @@ exploring
 extrapolated
 event
 events
+extending
 gap
 genomes
 grid
@@ -890,6 +900,7 @@ gMP
 gz
 gb
 glance
+gamma
 The
 This
 To
@@ -929,6 +940,7 @@ Tom
 Tv
 TRR
 They
+Theres
 computed
 counting
 causes
@@ -1056,6 +1068,8 @@ bJ
 better
 broader
 bound
+begin
+blue
 matrix
 mutation
 minimum
@@ -1392,6 +1406,8 @@ da
 do
 domains
 depends
+distinct
+dots
 Consider
 Calculating
 Common

@@ -17,7 +17,7 @@
     \For{$i \gets 1$ to $m$}
 	    \For{$j \gets 1$ to $n$}
 	    \State 
-		    $F(i,j) \gets max\left\{\begin{array}{l}
+		    $F(i,j) \gets \max\left\{\begin{array}{l}
 			\textbf{A: }F(i-1, j-1)+s(\text{x}_i,\text{y}_j)\\
 			\textbf{B: }F(i-1, j)-\text{d}\\
 			\textbf{C: }F(i, j-1)-\text{d}\end{array}\right.$

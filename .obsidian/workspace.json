@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6cd5eeaecd2403f7",
+        "id": "6ae264d0e2a2241a",
         "type": "tabs",
         "children": [
           {
-            "id": "2abb7fb039ee1789",
+            "id": "280b90695f09c616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Scoring gaps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Scoring gaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Scoring gaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Algorithms/Scoring gaps.md"
               }
             }
           },
@@ -154,21 +154,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2abb7fb039ee1789",
+  "active": "280b90695f09c616",
   "lastOpenFiles": [
+    "Algorithms/Needleman-Wunsch.md",
+    "Algorithms/Scoring gaps.md",
+    "Sequence Alignment.md",
+    "Algorithms/LCS.md",
+    "Algorithms/Smith-Waterman.md",
+    "Untitled",
     "Definitions/Scoring Matrix.md",
     "Definitions/Log Odds Matrix.md",
     "Global Alignment.md",
     "Glossary.md",
     "Local Aligment.md",
-    "Sequence Alignment.md",
     "Fixr.md",
-    "Algorithms/Needleman-Wunsch.md",
     "Attachments/Pasted image 20231024164432.png",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
-    "Algorithms/Smith-Waterman.md",
     "Definitions/LCS Problem.md",
-    "Algorithms/LCS.md",
     "Implementations/Smith-Waterman Implementation.md",
     "Implementations/Needleman-Wunsch Implementation.md",
     "Implementations/LCS implementation.md",
