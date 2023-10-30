@@ -115,7 +115,24 @@ Theres different ways you can go about this:
 >We can use 3 levels where the *bottom level is for insertions*, the *middle level is for matches/mismatches* and the *upper level for deletions*.
 >![[Pasted image 20231030183105.png]]
 
-- **Alignment with gaps:** 
 >[!info] Alignment with gaps
 >In our current model a gap of length $n$ incurs penalty $n\times d$ however gaps usually occur in bunches so we use a *convex gap penalty function:* $\gamma(n)$
->
+>Where $\gamma(n): \text{for all } n\text{, }\gamma(n+1)-\gamma(n)\leq\gamma(n)-\gamma(n-1)$
+>![[Scoring gaps#^a81ee9]]
+>- The *space complexity* is $O(nm)$.
+>- The *time complexity* is $O(n^2m)$        (assume $n \gt m$)
+
+>[!info] Affine gaps
+>The affine gap algorithm combines two linear functions to calculate how to score a sequence with a certain number of gaps. We let $$\gamma (n) = d+(n-1)\times e$$
+>Where $n$ is the number of gaps, $d$ is the cost of opening a gap and  $e$ is the cost of extending one.
+>In this case, to compute the optimal alignment at position $i,j$, we need to “remember” the best score if the gap is open and the best score if the gap is closed
+>![[Scoring gaps#^1c9d6d]]
+>$F(i,j)$: score of alignment $x_1 \dots x_i$ to $y_1 \dots y_j$  if $x_i$ aligns to $y_j$
+>$G(i,j)$: score if $x_i$, or $y_j$, aligns to a gap
+
+## Banded Dynamic Programming
+
+
+
+
+

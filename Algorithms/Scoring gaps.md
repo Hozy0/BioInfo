@@ -32,6 +32,9 @@
 	\end{algorithmic}
 	\end{algorithm}
 ```
+
+^a81ee9
+
 ```pseudo 
 	\begin{algorithm}
 	\caption{Affine Gaps Algorithm}
@@ -69,3 +72,6 @@
 	\end{algorithmic}
 	\end{algorithm}
 ```
+
+^1c9d6d
+

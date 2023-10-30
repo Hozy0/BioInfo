@@ -120,6 +120,7 @@ inferring
 indicate
 interval
 issue
+incurs
 sequence
 sequences
 similarity
@@ -211,6 +212,7 @@ series
 single
 second
 solve
+so
 alignment
 arranging
 an
@@ -284,6 +286,7 @@ assigned
 aligning
 any
 about
+approach
 Alignment
 Algorithms
 Assuming
@@ -425,6 +428,8 @@ objectives
 odds
 observed
 opening
+our
+occur
 two
 to
 the
@@ -790,6 +795,8 @@ uG
 uyt
 useful
 under
+use
+upper
 each
 example
 elements
@@ -1025,6 +1032,8 @@ choice
 controlled
 consecutive
 chance
+current
+convex
 by
 biologists
 between
@@ -1070,6 +1079,8 @@ broader
 bound
 begin
 blue
+bottom
+bunches
 matrix
 mutation
 minimum
@@ -1134,6 +1145,9 @@ may
 mutates
 matrices
 many
+middle
+mismatches
+model
 nd
 number
 non
@@ -1237,6 +1251,7 @@ IPs
 IT
 Ig
 If
+Its
 helpful
 how
 have
@@ -1278,6 +1293,7 @@ hf
 hc
 hand
 has
+however
 you
 yi
 yV
@@ -1539,6 +1555,7 @@ Lx
 LA
 LC
 Lj
+Level
 Subsequence
 So
 Synthetome
