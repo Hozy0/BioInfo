@@ -1,8 +1,9 @@
-```pseudo 
+
+```pseudo
 \begin{algorithm}
-\caption{ClustalW Algorithm for Progressive aligment}
+\caption{Lloyd Algorithm for clustering}
 \begin{algorithmic}
-    \Function{ClustalW}{GivenNsequences}
+    \Function{Lloyd}{GivenNsequences}
         \For{$i \gets 1$ \textbf{to} $GivenNsequences - 1$}
             \For{$j \gets i + 1$ \textbf{to} $GivenNsequences$}
                 \State $Score \gets$ \textsc{PairwiseAlign}($GivenNsequences[i]$, $GivenNsequences[j]$)

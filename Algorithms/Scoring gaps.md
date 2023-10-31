@@ -2,7 +2,7 @@
 	\begin{algorithm}
 	\caption{Alignment with gaps}
 	\begin{algorithmic}
-	\State Gap Alignment(\textbf{v,w})
+	\Function{GapAlignment}{\textbf{v,w}}
 	 \State $m \gets$ length of \textbf{v}
     \State $n \gets$ length of \textbf{w}
     \State\textit{Initialise a 2D array $F$ of size $(m+1) \times (n+1)$ where} $\gamma(n)$ \textit{is the convex gap penalty function}
@@ -29,6 +29,7 @@
 	    \EndFor 
     \EndFor 
     \Return $F(m,n)$, $Ptr(m,n)$
+    \EndFunction
 	\end{algorithmic}
 	\end{algorithm}
 ```
@@ -39,7 +40,7 @@
 	\begin{algorithm}
 	\caption{Affine Gaps Algorithm}
 	\begin{algorithmic}
-	\State Affine Gaps(\textbf{v,w})
+	\Function{AffineGaps}{\textbf{v,w}}
 	 \State $m \gets$ length of \textbf{v}
     \State $n \gets$ length of \textbf{w}
     \State\textit{Initialise a 2D array $F$ of size $(m+1) \times (n+1)$ where} $d$ \textit{is the gap opening penalty and } $e$ \textit{is the gap extension penalty}
@@ -69,6 +70,7 @@
 	    \EndFor 
     \EndFor 
     \Return $F(m,n)$
+    \EndFunction
 	\end{algorithmic}
 	\end{algorithm}
 ```

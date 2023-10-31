@@ -3,7 +3,7 @@
 \begin{algorithm}
   \caption{Compute LCS}
   \begin{algorithmic}
-    \State LCS(\textbf{v,w})
+    \Function{LCS}{\textbf{v,w}}
     \For{$i \gets 0$ \textbf{to} $n$}
       \State $s_{i,0} \gets 0$
     \EndFor
@@ -29,6 +29,7 @@
       \EndFor
     \EndFor
     \Return ($s_{n,m},\textbf{b}$)
+	\EndFunction
   \end{algorithmic}
 \end{algorithm}
 
@@ -40,7 +41,7 @@
 \begin{algorithm}
   \caption{Print the LCS}
   \begin{algorithmic}
-    \State PrintLCS(\textbf{b,v,$i$,$j$})
+    \Procedure{PrintLCS}{\textbf{b,v,$i$,$j$}}
 	\If{$i = 0$ \textbf{or } $j = 0$}
 		\Return
 	\EndIF
@@ -52,6 +53,7 @@
 	\Else
 		\State PrintLCS(\textbf{b,v,$i$,$j$})
 	\EndIf
+\EndProcedure
   \end{algorithmic}
 \end{algorithm}
 

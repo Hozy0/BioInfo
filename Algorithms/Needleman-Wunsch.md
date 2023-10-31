@@ -2,7 +2,7 @@
 	\begin{algorithm}
 	\caption{Needleman-Wunsch Algorithm for Global Sequence Alignment}
 	\begin{algorithmic}
-	\State Needleman-Wunsch(\textbf{v,w})
+	\Function{Needleman-Wunsch}{\textbf{v,w}}
 	 \State $m \gets$ length of \textbf{v}
     \State $n \gets$ length of \textbf{w}
     \State\textit{Initialise a 2D array $F$ of size $(m+1) \times (n+1)$ where} $d$ \textit{is the gap penalty}
@@ -29,6 +29,7 @@
 	    \EndFor 
     \EndFor 
     \Return $F(m,n)$, $Ptr(m,n)$
+    \EndFunction
 	\end{algorithmic}
 	\end{algorithm}
 ```

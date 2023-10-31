@@ -2,7 +2,7 @@
 	\begin{algorithm}
 	\caption{Smith-Waterman Algorithm for Local Sequence Alignment}
 	\begin{algorithmic}
-	\State Smith-Waterman(\textbf{v,w})
+	\Function{Smith-Waterman}{\textbf{v,w}}
 	 \State $m \gets$ length of \textbf{v}
     \State $n \gets$ length of \textbf{w}
     \State\textit{Initialise a 2D array $F$ of size $(m+1) \times (n+1)$ we don't care about initial gaps; therefore, the initial gap cost is 0} 
@@ -30,6 +30,7 @@
     \For{all i, j}
     \State Find $F(i,j)\gt t$ and trace back
     \EndFor
+    \EndFunction
 	\end{algorithmic}
 	\end{algorithm}
 ```
