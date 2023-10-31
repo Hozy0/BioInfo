@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/LCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "392794d63d94a864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Clustalw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Clustalw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Clustalw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Algorithms/Clustalw.md"
               }
             }
           },
@@ -154,15 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280b90695f09c616",
+  "active": "392794d63d94a864",
   "lastOpenFiles": [
-    "Global Alignment.md",
+    "Algorithms/LCS.md",
+    "Algorithms/Clustalw.md",
+    "Attachments/Pasted image 20231030183105.png",
     "Sequence Alignment.md",
-    "Pasted image 20231030183105.png",
+    "Global Alignment.md",
     "Local Aligment.md",
     "Algorithms/Scoring gaps.md",
     "Algorithms/Smith-Waterman.md",
-    "Algorithms/LCS.md",
     "Algorithms/Needleman-Wunsch.md",
     "Untitled",
     "Definitions/Scoring Matrix.md",
