@@ -132,3 +132,5 @@ Theres different ways you can go about this:
 
 ## Banded Dynamic Programming
 
+Assume we know that x and y are very similar; If the optimal alignment of x and y has few gaps, then the path of the alignment will be close to the diagonal.
+

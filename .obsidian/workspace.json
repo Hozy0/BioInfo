@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Lloyd Algorithm.md",
+                "file": "Sequence Alignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Lloyd Algorithm.md",
+                "file": "Sequence Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Lloyd Algorithm.md",
+                "file": "Sequence Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Lloyd Algorithm.md"
+                "file": "Sequence Alignment.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280b90695f09c616",
+  "active": "d6daf0fe9f3e2bb5",
   "lastOpenFiles": [
+    "Algorithms/Lloyd Algorithm.md",
     "Algorithms/Scoring gaps.md",
     "Algorithms/Smith-Waterman.md",
     "Algorithms/LCS.md",
-    "Algorithms/Lloyd Algorithm.md",
     "Algorithms/Needleman-Wunsch.md",
     "Algorithms/ClustalW.md",
     "Definitions/LCS Problem.md",

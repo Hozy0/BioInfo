@@ -346,6 +346,8 @@ aj
 aS
 aC
 aca
+assume
+affine
 Alignment
 Algorithms
 Assuming
@@ -393,6 +395,7 @@ Az
 Ah
 AL
 AuT
+Affine
 way
 with
 want
@@ -537,6 +540,7 @@ oRY
 oeZ
 oSy
 oAS
+open
 two
 to
 the
@@ -825,6 +829,7 @@ rS
 rM
 rn
 rW
+remember
 Given
 General
 Graph
@@ -957,6 +962,8 @@ lU
 lER
 lXw
 lw
+linear
+let
 up
 uparrow
 using
@@ -1326,6 +1333,11 @@ cbKX
 clk
 cR
 cn
+combines
+calculate
+certain
+cost
+closed
 by
 biologists
 between
@@ -1539,6 +1551,7 @@ nF
 nmm
 nf
 nn
+need
 It
 In
 INPUT
@@ -2495,6 +2508,7 @@ BB
 Bt
 Bp
 BE
+Banded
 Using
 Uo
 UA
