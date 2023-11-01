@@ -132,5 +132,14 @@ Theres different ways you can go about this:
 
 ## Banded Dynamic Programming
 
-Assume we know that x and y are very similar; If the optimal alignment of x and y has few gaps, then the path of the alignment will be close to the diagonal.
+Assume we know that $x$ and $y$ are very similar; If the optimal alignment of $x$ and $y$ has few gaps, then the path of the alignment will be close to the diagonal.
+
+>[!note] 
+>*Assumption:* # gaps($x,y$) $\lt$ $k(N)$ 
+>Then if $x_i$ aligns to $y_j$ $\implies|i-j| \lt k(N)$
+>
+>*Time and Space complexity:* $O(N \times k(N))\ll O(N^2)$
+
+
+
 

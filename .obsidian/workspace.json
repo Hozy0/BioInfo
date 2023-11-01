@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Banded Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Banded Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Banded Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Algorithms/Banded Dynamic Programming.md"
               }
             }
           },
@@ -155,17 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6daf0fe9f3e2bb5",
+  "active": "280b90695f09c616",
   "lastOpenFiles": [
+    "Algorithms/Needleman-Wunsch.md",
     "Algorithms/Lloyd Algorithm.md",
+    "Algorithms/Banded Dynamic Programming.md",
+    "Sequence Alignment.md",
     "Algorithms/Scoring gaps.md",
     "Algorithms/Smith-Waterman.md",
     "Algorithms/LCS.md",
-    "Algorithms/Needleman-Wunsch.md",
     "Algorithms/ClustalW.md",
     "Definitions/LCS Problem.md",
     "Attachments/Pasted image 20231030183105.png",
-    "Sequence Alignment.md",
     "Global Alignment.md",
     "Local Aligment.md",
     "Untitled",
