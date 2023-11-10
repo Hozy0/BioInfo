@@ -56,6 +56,7 @@ WVV
 WT
 WII
 Wd
+While
 is
 identify
 in
@@ -148,6 +149,13 @@ instructions
 involves
 impact
 itself
+ignore
+implemented
+incorporate
+initialisation
+incorporating
+introduction
+introduced
 sequence
 sequences
 similarity
@@ -271,6 +279,8 @@ signals
 specify
 stability
 stores
+system
+setting
 alignment
 arranging
 an
@@ -371,6 +381,14 @@ around
 adenine
 adaptability
 above
+adapt
+adjusted
+allow
+anywhere
+adjustments
+accurately
+ability
+affected
 Alignment
 Algorithms
 Assuming
@@ -422,6 +440,7 @@ Affine
 Acid
 Assume
 Assumption
+AC
 way
 with
 want
@@ -488,6 +507,7 @@ wr
 wUP
 what
 without
+while
 of
 or
 one
@@ -670,6 +690,8 @@ then
 together
 traceback
 transformation
+transformations
+traces
 DNA
 Dynamic
 Developing
@@ -718,6 +740,7 @@ DM
 Dq
 Dr
 Deoxyribonucleic
+Despite
 protein
 position
 part
@@ -810,6 +833,7 @@ promoters
 programming
 path
 penalising
+permit
 regions
 row
 required
@@ -888,6 +912,11 @@ remaining
 redundancy
 robustness
 reduces
+represents
+recurrence
+realistic
+remains
+reaching
 Given
 General
 Graph
@@ -955,6 +984,7 @@ Gf
 GlI
 Gene
 Genes
+GACTT
 line
 letter
 length
@@ -1027,6 +1057,7 @@ let
 linked
 likely
 living
+lengths
 up
 uparrow
 using
@@ -1097,6 +1128,7 @@ uq
 uJ
 uracil
 undergoes
+until
 each
 example
 elements
@@ -1173,6 +1205,13 @@ evolved
 ensures
 efficiently
 essentially
+equals
+enable
+extension
+ensuring
+efficient
+enhance
+efficiency
 gap
 genomes
 grid
@@ -1302,6 +1341,7 @@ TV
 Transcription
 These
 Time
+TGAA
 computed
 counting
 causes
@@ -1433,6 +1473,12 @@ crucial
 cells
 convert
 configuration
+constructs
+considering
+column
+commence
+costs
+considers
 by
 biologists
 between
@@ -1501,6 +1547,7 @@ bE
 bh
 base
 bases
+biologically
 matrix
 mutation
 minimum
@@ -1591,6 +1638,11 @@ molecule
 making
 messenger
 minimise
+made
+maximum
+modifications
+meaningful
+maintaining
 nd
 number
 non
@@ -1656,6 +1708,8 @@ need
 nucleotides
 nitrogenous
 nucleus
+needs
+now
 It
 In
 INPUT
@@ -1730,6 +1784,7 @@ IH
 IgN
 INNN
 Introduction
+Initialisation
 helpful
 how
 have
@@ -1787,6 +1842,7 @@ hGZ
 huB
 hPp
 helix
+handle
 you
 yi
 yV
@@ -1893,6 +1949,8 @@ files
 folders
 few
 familiar
+filling
+features
 deletions
 due
 death
@@ -1965,6 +2023,8 @@ deoxyribose
 dynamic
 diagonal
 diagonally
+determining
+distinguishing
 Consider
 Calculating
 Common
@@ -2629,6 +2689,7 @@ Bt
 Bp
 BE
 Banded
+Backtracking
 Using
 Uo
 UA
@@ -3218,6 +3279,7 @@ Kusn
 Kl
 Kc
 KW
+Key
 Zm
 Zj
 ZS
