@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Banded Dynamic Programming.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Banded Dynamic Programming.md",
+                "file": "Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Banded Dynamic Programming.md",
+                "file": "Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Banded Dynamic Programming.md"
+                "file": "Glossary.md"
               }
             }
           },
@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280b90695f09c616",
+  "active": "efbcdecb9d4dbc69",
   "lastOpenFiles": [
+    "Supo work",
+    "Algorithms/Banded Dynamic Programming.md",
     "Algorithms/Needleman-Wunsch.md",
     "Algorithms/Lloyd Algorithm.md",
-    "Algorithms/Banded Dynamic Programming.md",
     "Sequence Alignment.md",
     "Algorithms/Scoring gaps.md",
     "Algorithms/Smith-Waterman.md",
@@ -169,7 +170,6 @@
     "Attachments/Pasted image 20231030183105.png",
     "Global Alignment.md",
     "Local Aligment.md",
-    "Untitled",
     "Definitions/Scoring Matrix.md",
     "Definitions/Log Odds Matrix.md",
     "Glossary.md",
