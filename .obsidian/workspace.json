@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Supo/Supervision 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementations/Needleman-Wunsch Implementation.md",
+                "file": "Supo/Supervision 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementations/Needleman-Wunsch Implementation.md",
+                "file": "Supo/Supervision 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementations/Needleman-Wunsch Implementation.md"
+                "file": "Supo/Supervision 1.md"
               }
             }
           },
@@ -180,13 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75d3efb78184ba6e",
+  "active": "280b90695f09c616",
   "lastOpenFiles": [
+    "Definitions/Scoring Matrix.md",
+    "Supo/Supervision 1.md",
+    "Implementations/Needleman-Wunsch Implementation.md",
     "Sequence Alignment.md",
     "Global Alignment.md",
-    "Supo/Supervision 1.md",
-    "Definitions/Scoring Matrix.md",
-    "Implementations/Needleman-Wunsch Implementation.md",
     "Definitions/Log Odds Matrix.md",
     "Definitions/Local Alignment Problem.md",
     "Definitions/LCS Problem.md",

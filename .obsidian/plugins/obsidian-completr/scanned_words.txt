@@ -147,6 +147,7 @@ its
 instructions
 involves
 impact
+itself
 sequence
 sequences
 similarity
@@ -269,6 +270,7 @@ stop
 signals
 specify
 stability
+stores
 alignment
 arranging
 an
@@ -368,6 +370,7 @@ affine
 around
 adenine
 adaptability
+above
 Alignment
 Algorithms
 Assuming
@@ -484,6 +487,7 @@ wx
 wr
 wUP
 what
+without
 of
 or
 one
@@ -569,6 +573,7 @@ organised
 operons
 offering
 organisms
+obtained
 two
 to
 the
@@ -663,6 +668,8 @@ transported
 translated
 then
 together
+traceback
+transformation
 DNA
 Dynamic
 Developing
@@ -802,6 +809,7 @@ product
 promoters
 programming
 path
+penalising
 regions
 row
 required
@@ -879,6 +887,7 @@ refers
 remaining
 redundancy
 robustness
+reduces
 Given
 General
 Graph
@@ -1161,6 +1170,9 @@ eJ
 eMj
 eTF
 evolved
+ensures
+efficiently
+essentially
 gap
 genomes
 grid
@@ -1417,6 +1429,10 @@ codons
 code
 computing
 close
+crucial
+cells
+convert
+configuration
 by
 biologists
 between
@@ -1876,6 +1892,7 @@ fJ
 files
 folders
 few
+familiar
 deletions
 due
 death
@@ -1947,6 +1964,7 @@ double
 deoxyribose
 dynamic
 diagonal
+diagonally
 Consider
 Calculating
 Common
@@ -2721,6 +2739,7 @@ vlp
 vS
 vkZ
 very
+value
 Needleman
 Note
 Nt

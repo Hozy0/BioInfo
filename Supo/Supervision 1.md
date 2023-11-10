@@ -20,4 +20,11 @@ graph LR
 
 ## Sequence Alignment
 
-1. The dynamic programming algorithm used for computing global alignment between 2 DNA sequences is known as the Needleman-Wunsch algorithm. 
+1. The dynamic programming algorithm used for computing global alignment between 2 DNA sequences is known as the Needleman-Wunsch algorithm. ![[Global Alignment Problem#^334b12]]![[Global Alignment Problem#^be551e]]
+The score matrix is crucial because it stores the optimal alignment scores at each position, and the dynamic programming approach ensures that each cell's value depends only on the values in the cells above, to the left, and diagonally above the left. This ensures that the optimal alignment score can be efficiently computed.
+
+To convert the global alignment problem to the familiar Longest Common Subsequence (LCS) problem, you can set the match score to 1, the mismatch score to 0, and the gap penalty to 0. In this configuration, the optimal alignment score will equal the length of the LCS. The alignment itself can be obtained by traceback.
+
+This transformation essentially reduces the global alignment problem to finding the longest common subsequence without penalising for gaps or mismatches.
+
+2. 
