@@ -71,7 +71,7 @@ Then, $$F(i,j)=\max\left\{\begin{array}{l}
 F(i-1, j-1)+s(\text{x}_i,\text{y}_j)\\
 F(i-1, j)-\text{d}\\
 F(i, j-1)-\text{d}\end{array}\right.$$
-where $s(\text{x}_i,\text{y}_j)=\begin{array}\text{m, if }\text{x}_i=\text{y}_j\\-\text{s, if }\text{x}_i\neq\text{y}_j\end{array}$
+where $s(\text{x}_i,\text{y}_j)=\begin{array}-\text{m, if } \text{x}_i=\text{y}_j\\-\text{s, if }\text{x}_i\neq\text{y}_j\end{array}$
 
 ## General Alignment Graph
 

@@ -14,12 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "Supo/Supervision 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ab5fb9ec1c846a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequence Alignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d3efb78184ba6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementations/Needleman-Wunsch Implementation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supo/Supervision 1.md",
+                "file": "Implementations/Needleman-Wunsch Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supo/Supervision 1.md",
+                "file": "Implementations/Needleman-Wunsch Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supo/Supervision 1.md"
+                "file": "Implementations/Needleman-Wunsch Implementation.md"
               }
             }
           },
@@ -155,33 +180,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "280b90695f09c616",
+  "active": "75d3efb78184ba6e",
   "lastOpenFiles": [
-    "Glossary.md",
+    "Sequence Alignment.md",
+    "Global Alignment.md",
     "Supo/Supervision 1.md",
+    "Definitions/Scoring Matrix.md",
+    "Implementations/Needleman-Wunsch Implementation.md",
+    "Definitions/Log Odds Matrix.md",
+    "Definitions/Local Alignment Problem.md",
+    "Definitions/LCS Problem.md",
+    "Algorithms/Needleman-Wunsch.md",
+    "Definitions/Global Alignment Problem.md",
+    "Glossary.md",
     "Supo",
     "Algorithms/Banded Dynamic Programming.md",
-    "Algorithms/Needleman-Wunsch.md",
     "Algorithms/Lloyd Algorithm.md",
-    "Sequence Alignment.md",
     "Algorithms/Scoring gaps.md",
     "Algorithms/Smith-Waterman.md",
     "Algorithms/LCS.md",
     "Algorithms/ClustalW.md",
-    "Definitions/LCS Problem.md",
     "Attachments/Pasted image 20231030183105.png",
-    "Global Alignment.md",
     "Local Aligment.md",
-    "Definitions/Scoring Matrix.md",
-    "Definitions/Log Odds Matrix.md",
     "Fixr.md",
     "Attachments/Pasted image 20231024164432.png",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
     "Implementations/Smith-Waterman Implementation.md",
-    "Implementations/Needleman-Wunsch Implementation.md",
     "Implementations/LCS implementation.md",
-    "Definitions/Global Alignment Problem.md",
-    "Definitions/Local Alignment Problem.md",
     "Algorithms/Alignment.md",
     "Attachments/Pasted image 20231021015841.png",
     "Algorithms",
