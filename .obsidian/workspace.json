@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Supo/Supervision 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary.md",
+                "file": "Supo/Supervision 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary.md",
+                "file": "Supo/Supervision 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary.md"
+                "file": "Supo/Supervision 1.md"
               }
             }
           },
@@ -155,9 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efbcdecb9d4dbc69",
+  "active": "280b90695f09c616",
   "lastOpenFiles": [
-    "Supo work",
+    "Glossary.md",
+    "Supo/Supervision 1.md",
+    "Supo",
     "Algorithms/Banded Dynamic Programming.md",
     "Algorithms/Needleman-Wunsch.md",
     "Algorithms/Lloyd Algorithm.md",
@@ -172,7 +174,6 @@
     "Local Aligment.md",
     "Definitions/Scoring Matrix.md",
     "Definitions/Log Odds Matrix.md",
-    "Glossary.md",
     "Fixr.md",
     "Attachments/Pasted image 20231024164432.png",
     "Attachments/3A8686DD-B36B-4AFD-9470-3E6224659550.jpeg",
