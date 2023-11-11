@@ -156,6 +156,11 @@ initialisation
 incorporating
 introduction
 introduced
+initialising
+involving
+intermediate
+including
+inherent
 sequence
 sequences
 similarity
@@ -281,6 +286,17 @@ stability
 stores
 system
 setting
+storage
+secondary
+stable
+structures
+solutions
+subproblems
+splitting
+some
+size
+specialized
+software
 alignment
 arranging
 an
@@ -389,6 +405,9 @@ adjustments
 accurately
 ability
 affected
+assumes
+achieved
+arises
 Alignment
 Algorithms
 Assuming
@@ -594,6 +613,7 @@ operons
 offering
 organisms
 obtained
+output
 two
 to
 the
@@ -834,6 +854,10 @@ programming
 path
 penalising
 permit
+previous
+paradigm
+possibility
+point
 regions
 row
 required
@@ -917,6 +941,11 @@ recurrence
 realistic
 remains
 reaching
+reduced
+relationship
+range
+running
+require
 Given
 General
 Graph
@@ -985,6 +1014,7 @@ GlI
 Gene
 Genes
 GACTT
+GCAACGUCG
 line
 letter
 length
@@ -1058,6 +1088,9 @@ linked
 likely
 living
 lengths
+lecture
+leq
+loops
 up
 uparrow
 using
@@ -1129,6 +1162,8 @@ uJ
 uracil
 undergoes
 until
+understand
+uses
 each
 example
 elements
@@ -1212,6 +1247,8 @@ ensuring
 efficient
 enhance
 efficiency
+explanation
+executing
 gap
 genomes
 grid
@@ -1283,6 +1320,7 @@ group
 guanine
 gives
 groups
+given
 The
 This
 To
@@ -1479,6 +1517,8 @@ column
 commence
 costs
 considers
+complementary
+cubic
 by
 biologists
 between
@@ -1643,6 +1683,8 @@ maximum
 modifications
 meaningful
 maintaining
+maximising
+maximizes
 nd
 number
 non
@@ -1710,6 +1752,8 @@ nitrogenous
 nucleus
 needs
 now
+neighboring
+nested
 It
 In
 INPUT
@@ -1885,6 +1929,7 @@ yC
 yk
 yeR
 yI
+yield
 find
 for
 finding
@@ -1951,6 +1996,8 @@ few
 familiar
 filling
 features
+fully
+formed
 deletions
 due
 death
@@ -2025,6 +2072,12 @@ diagonal
 diagonally
 determining
 distinguishing
+discard
+didn
+dictates
+determined
+details
+designed
 Consider
 Calculating
 Common
@@ -2123,6 +2176,7 @@ HZi
 Hc
 HY
 Hs
+However
 Edit
 EndIf
 EndFunction
@@ -2855,6 +2909,7 @@ Nc
 Ng
 Nh
 NmR
+Nussinov
 JFIF
 JQ
 JK
