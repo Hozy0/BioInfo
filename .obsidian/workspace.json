@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Supo/Supo 2-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Supo/Supo 2-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Supo/Supo 2-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Supo/Supo 2-3.md"
               }
             }
           },
@@ -182,24 +182,25 @@
   },
   "active": "5ab5fb9ec1c846a1",
   "lastOpenFiles": [
+    "Glossary.md",
+    "Supo/Supo 2-3.md",
+    "Global Alignment.md",
+    "Algorithms/Lloyd Algorithm.md",
     "Supo/Supervision 1.md",
-    "Pasted image 20231111050127.png",
-    "Supo/[.md",
-    "Algorithms/Scoring gaps.md",
     "Sequence Alignment.md",
+    "Supo/[.md",
+    "Pasted image 20231111050127.png",
+    "Algorithms/Scoring gaps.md",
     "Local Aligment.md",
     "Implementations/Needleman-Wunsch Implementation.md",
     "Definitions/Scoring Matrix.md",
-    "Global Alignment.md",
     "Definitions/Log Odds Matrix.md",
     "Definitions/Local Alignment Problem.md",
     "Definitions/LCS Problem.md",
     "Algorithms/Needleman-Wunsch.md",
     "Definitions/Global Alignment Problem.md",
-    "Glossary.md",
     "Supo",
     "Algorithms/Banded Dynamic Programming.md",
-    "Algorithms/Lloyd Algorithm.md",
     "Algorithms/Smith-Waterman.md",
     "Algorithms/LCS.md",
     "Algorithms/ClustalW.md",
