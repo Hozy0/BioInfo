@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5ab5fb9ec1c846a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supo/Supo 2-3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "75d3efb78184ba6e",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supo/Supo 2-3.md",
+                "file": "Supo/Supervision 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supo/Supo 2-3.md",
+                "file": "Supo/Supervision 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supo/Supo 2-3.md"
+                "file": "Supo/Supervision 1.md"
               }
             }
           },
@@ -180,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ab5fb9ec1c846a1",
+  "active": "280b90695f09c616",
   "lastOpenFiles": [
-    "Glossary.md",
     "Supo/Supo 2-3.md",
+    "Glossary.md",
     "Global Alignment.md",
     "Algorithms/Lloyd Algorithm.md",
     "Supo/Supervision 1.md",
