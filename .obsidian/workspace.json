@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supo/Supervision 1.md",
+                "file": "Supo/Supo 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supo/Supervision 1.md",
+                "file": "Supo/Supo 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supo/Supervision 1.md",
+                "file": "Supo/Supo 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supo/Supervision 1.md"
+                "file": "Supo/Supo 4.md"
               }
             }
           },
@@ -169,11 +169,12 @@
   },
   "active": "280b90695f09c616",
   "lastOpenFiles": [
+    "Supo/Supervision 1.md",
+    "Supo/Supo 4.md",
     "Supo/Supo 2-3.md",
     "Glossary.md",
     "Global Alignment.md",
     "Algorithms/Lloyd Algorithm.md",
-    "Supo/Supervision 1.md",
     "Sequence Alignment.md",
     "Supo/[.md",
     "Pasted image 20231111050127.png",

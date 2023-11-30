@@ -1,0 +1,45 @@
+## Genome assembly
+1. In genome assembly, augmenting the sequencing framework with an additional reference genome aids sequencing by providing a "scaffold" or a guide against which new sequences can be compared and aligned. This can help order and orient the contigs (continuous sequences) generated from the sequencing process. Having a reference genome can significantly reduce the complexity of the assembly process, as it provides a known structure that can be used to guide the placement of new sequences and resolve ambiguities. Furthermore, it can speed up the process of identifying genetic variants, as these can be directly mapped to the reference genome.
+2. A trie (also known as a prefix tree) is a tree-like data structure that stores a dynamic set or associative array where the keys are usually strings. The basic operations supported by a trie include insertion, deletion, and search, all of which have a time complexity of O(L), where L is the length of the key. Tries can be applied to the problem of genome assembly in different ways. For example, they can be used to efficiently store and search the set of all substrings (suffixes) of a given string, which is a common task in genome assembly algorithms. A suffix trie is a specialised type of trie where the set of keys is all suffixes of a given string. It can be used to solve many string-related problems efficiently, such as finding the longest repeated substring in a string or finding the longest common substring of two strings. A suffix tree is a compressed version of a suffix trie with the same functionality but less space.
+3. The Burrows-Wheeler transform (BWT) and run-length encoding (RLE) are methods that can be used to reduce the storage requirements of large genomes. The BWT is a data transformation algorithm that rearranges a string into runs of similar characters. This is particularly useful for compression, as it tends to produce a high number of runs which can be efficiently encoded using RLE, a basic form of data compression where consecutive elements that are the same are replaced by a single instance of the element, followed by the count. To prove that the scheme is efficiently invertible, one could argue that both BWT and RLE have efficient inverse operations. The inverse BWT can be computed in linear time using the LF-mapping property, which states that the i-th occurrence of a character in the original string is the i-th occurrence of the same character in the BWT of the string. The inverse RLE is trivial to compute: the element is repeated count times for each element and count.
+4. To efficiently pattern-match to the string obtained by the above methods, one could use a data structure such as a suffix array or a suffix tree. A suffix array is a sorted array of all suffixes of a string, which can be constructed in O(n log n) time using a sorting algorithm. It supports efficient pattern matching queries: given a pattern, one can use binary search to find the range of suffixes in the suffix array that have the pattern as a prefix, in O(m log n) time, where m is the length of the pattern
+5. 
+6. 
+ ```python
+suffixes = [(s[i:], i) for i in range(len(s))]
+```
+
+7. We might generally be more interested in inexact matchings of reads to the reference in genome assembly because of the following reasons:
+	- Errors in sequencing: Due to the imperfections in sequencing technologies, there may be errors in the reads obtained from the sequencing process. These errors can lead to mismatches between the reads and the reference genome. Therefore, it is important to be able to handle these inexact matchings.
+	- Variability in genetic material: The genetic material in different individuals can vary due to mutations, recombinations, and other genetic events. Therefore, the reads obtained from different individuals may not match the reference genome exactly.
+	- Overlapping reads: When sequencing long DNA fragments, it is common to obtain overlapping reads. This means that a single DNA fragment can be represented by multiple reads that start from different positions on the fragment. Therefore, it is important to be able to handle these inexact matchings to assemble the genome correctly.
+
+The seeding and BWT approach to this problem can be used to handle inexact matchings efficiently. The seeding approach involves identifying "seeds" of matches between the reads and the reference genome and then extending these seeds to find exact matches. This approach has a time complexity of O(N^2), where N is the length of the read. The BWT approach involves transforming the reads and the reference genome into a form where the seeds of matches are more likely to overlap and then using an algorithm like the FM index to find these matches efficiently. This approach has a time complexity of O(N), where N is the length of the read
+
+## Hidden Markov models
+1. A Hidden Markov Model (HMM) is a statistical model that assumes the system being modelled is a Markov process with unobservable states, and these hidden states influence the observed data. The key components of an HMM include:
+
+	- **Hidden States:** These are the states of the Markov process which are not directly observable 
+	- **Transition Probabilities:** These are the probabilities of transitioning from one hidden state to another. The transition probabilities are represented in a transition matrix 
+	- **Emission Probabilities:** These are the probabilities that a particular hidden state will produce a certain observable state. These probabilities are represented in an emission matrix
+	- **Observations:** These are the observable data that are influenced by the hidden states
+
+The differences between HMM and Markov Chain are :
+- In a Markov Chain, the state of a system at any given point is directly observable, and transitions between states are dependent only on the current state, not on any previous states. This is known as the Markov Property
+- In an HMM, the states of the system are not directly observable. Instead, the system outputs observable data that are influenced by the hidden states. The states of an HMM have a Markov property, but the observed data sequence is influenced by the hidden states, providing information about the sequence of hidden states
+
+**2. HMM Algorithms:**
+
+- **Viterbi:** The Viterbi algorithm is used to find the most likely sequence of hidden states given the observed data sequence. The inputs to this algorithm are the observed data sequence and the parameters of the HMM (transition and emission probabilities). The output is the most likely sequence of hidden states. The time complexity of the Viterbi algorithm is O(N^2T), where N is the number of hidden states and T is the length of the observed sequence [13](https://en.wikipedia.org/wiki/Hidden_Markov_model).
+
+- **Forward:** The Forward algorithm is used to calculate the probability of an observed sequence given the HMM's parameters. The inputs are the observed sequence and the HMM's parameters, and the output is the probability of the observed sequence. The time complexity of the Forward algorithm is O(N^2T), similar to the Viterbi algorithm [13](https://en.wikipedia.org/wiki/Hidden_Markov_model).
+
+- **Viterbi Training:** The Viterbi Training algorithm is an adaptation of the Viterbi algorithm used to estimate the parameters of the HMM. The inputs are the observed sequence and initial estimates of the HMM's parameters. The output is the updated estimates of the HMM's parameters. The time complexity is similar to the Viterbi algorithm, O(N^2T) [13](https://en.wikipedia.org/wiki/Hidden_Markov_model).
+
+- **Baum-Welch:** The Baum-Welch algorithm is an expectation-maximization algorithm used to estimate the parameters of the HMM. The inputs are the observed sequence and initial estimates of the HMM's parameters. The output is the updated estimates of the HMM's parameters. The time complexity is O(N^2T), the same as the Viterbi and Forward algorithms [13](https://en.wikipedia.org/wiki/Hidden_Markov_model).
+
+**3. Application of HMMs to Specific Scenarios:**
+
+- (a) **Analysis of transmembrane protein secondary structure:** In this scenario, the hidden states could represent the locations of the amino acids (inside the cell, inside the membrane, or outside the cell). The observed states would be the amino acids themselves. The Baum-Welch algorithm could be used to learn the HMM parameters from the training set. The Viterbi algorithm could then be used to determine the most likely sequence of locations (hidden states) for a new protein sequence (observed sequence).
+
+- (b) **Classifying patients for presence or absence of a genetic disease:** In this scenario, the hidden states could represent the disease status (patient or normal), and the observed states would be the DNA sequences. The Baum-Welch algorithm could be used to learn the HMM parameters from the training set. The Viterbi algorithm could then be used to determine the most likely
