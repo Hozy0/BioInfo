@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Smith-Waterman.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Smith-Waterman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequence Alignment.md",
+                "file": "Algorithms/Smith-Waterman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence Alignment.md"
+                "file": "Algorithms/Smith-Waterman.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "75d3efb78184ba6e",
   "lastOpenFiles": [
-    "Algorithms/Scoring gaps.md",
     "Sequence Alignment.md",
+    "Algorithms/Scoring gaps.md",
     "Glossary.md",
     "Global Alignment.md",
     "Supo/2223E - Assignment 3.md",
