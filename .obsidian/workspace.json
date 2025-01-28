@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Aligment.md",
+                "file": "Algorithms/ClustalW.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ClustalW"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Aligment.md",
+                "file": "Algorithms/ClustalW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ClustalW"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Aligment.md",
+                "file": "Algorithms/ClustalW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ClustalW"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Aligment.md"
-              }
+                "file": "Algorithms/ClustalW.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ClustalW"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -155,6 +173,9 @@
   },
   "active": "75d3efb78184ba6e",
   "lastOpenFiles": [
+    "Algorithms/Banded Dynamic Programming.md",
+    "Supo/Supo 4.md",
+    "Local Aligment.md",
     "Algorithms/Smith-Waterman.md",
     "Sequence Alignment.md",
     "Algorithms/Scoring gaps.md",
@@ -166,10 +187,8 @@
     "Implementations/Needleman-Wunsch Implementation.md",
     "Implementations/Smith-Waterman Implementation.md",
     "Pasted image 20231111050127.png",
-    "Supo/Supo 4.md",
     "Algorithms/Lloyd Algorithm.md",
     "Supo/[.md",
-    "Local Aligment.md",
     "Definitions/Scoring Matrix.md",
     "Definitions/Log Odds Matrix.md",
     "Definitions/Local Alignment Problem.md",
@@ -177,7 +196,6 @@
     "Algorithms/Needleman-Wunsch.md",
     "Definitions/Global Alignment Problem.md",
     "Supo",
-    "Algorithms/Banded Dynamic Programming.md",
     "Algorithms/LCS.md",
     "Algorithms/ClustalW.md",
     "Attachments/Pasted image 20231030183105.png",
